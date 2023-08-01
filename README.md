@@ -2,7 +2,7 @@
 
 Non responsive Cloned Website of UsabilityHub using HTML and CSS.
 
-Website is Live at []
+!!Website is Live at [https://taufeeq-g.github.io/Clone-Website-1-HTML-and-CSS-Non-Responsive/]!!
 
 ![image](https://github.com/taufeeq-g/Clone-Website-1-HTML-and-CSS-Non-Responsive/assets/125188738/1397770f-bac3-4b23-a5b7-292c90544a25)
 
